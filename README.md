@@ -66,7 +66,7 @@ to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
 Translations
-------------
+-------------
 
 Changes to translations as well as new translations can be submitted to
 [Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
